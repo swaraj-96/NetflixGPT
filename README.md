@@ -2,12 +2,17 @@
 
 - create react app
 - configured tailwindcss
+- Header
+- Sign In
+- Sign Up
+
 
 
 
 
 # features
 - login/signup page
+    - Header
     - Sign in/Sign Up form
     - redirect to Browse page
 - Browse (after authentication)
